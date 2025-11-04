@@ -1,7 +1,7 @@
-Visão Geral do Projeto
+<h1>Visão Geral do Projeto</h1>
 Este é um aplicativo React Native que gerencia e trabalha com dados de localização, utilizando várias bibliotecas e serviços para funcionalidades completas de geolocalização. O aplicativo permite obter a localização atual do usuário, converter coordenadas em endereços legíveis e salvar essas informações em um banco de dados.
 
-Importações e Suas Finalidades
+<h1>Importações e Suas Finalidades</h1>
 React e React Native Core
 O código importa funcionalidades essenciais do React e componentes do React Native:
 
